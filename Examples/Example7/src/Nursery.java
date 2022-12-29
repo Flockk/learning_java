@@ -12,6 +12,6 @@ public class Nursery {
         Dog maltese = new Dog("Maltese", "small", 2, "white");
 
         System.out.println("First dog: " + mastiff.breed + ", " + mastiff.age + ", " + mastiff.color);
-        System.out.println("Second dog: " + mastiff.breed + ", " + mastiff.age + ", " + mastiff.color);
+        System.out.println("Second dog: " + maltese.breed + ", " + maltese.age + ", " + maltese.color);
     }
 }
