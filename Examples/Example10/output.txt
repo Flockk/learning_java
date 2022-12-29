@@ -1,0 +1,6 @@
+Hello, buffered writer!
+Hello, buffered writer!
+Hello, buffered writer!
+red
+green
+blue
